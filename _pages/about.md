@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Akshay. I'm a Master's student researcher at the University of Michigan (Ann Arbor) in the Department of Neurosurgery.
+Hello! My name is Akshay. 
+I'm a Master's student researcher at the University of Michigan (Ann Arbor) in the Department of Neurosurgery.
