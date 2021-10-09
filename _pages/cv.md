@@ -11,22 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S.E. in Computer Engineering, GitHub University, 2020
-* M.S.E in Biomedical Engineering, GitHub University, 2021
+* BSE in Computer Engineering, University of Michigan (Ann Arbor), 2020
+* MSE in Biomedical Engineering, University of Michigan (Ann Arbor), 2021
 
 Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 12/2019 – Present | Master's Researcher | U-M Restorative Neuroengineering Group
+  * Applying signal-processing and machine-learning methods to improve the efficacy of subthalamic deep brain stimulation (STN-DBS) surgeries for treating the motor symptoms of Parkinson’s disease.
+  * Programming neuromodulation equipment used during surgery to record electrophysiological data from patients (LabVIEW).
+  * Supervisor: Parag Patil, MD, PhD
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09/2017 – 09/2019 | Undergraduate researcher | U-M Ultrasound Therapy Lab
+  * Investigated the physics of histotripsy: non-invasive therapy that uses focused ultrasound to ablate tissue
+  * Analyzed acoustic data from ultrasound transducers/receivers to measure the energy efficiency of histotripsy therapies (MATLAB). Worked extensively with ultrasound transducer hardware, FPGA microcontrollers (Verilog, C), and networking equipment (Python).
+  * Supervisor: Zhen Xu, PhD
   
-
 Publications
 ======
   <ul>{% for post in site.publications %}
