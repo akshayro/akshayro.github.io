@@ -26,8 +26,8 @@ Research experience
   * Analyzed acoustic data from ultrasound transducers/receivers to measure the energy efficiency of histotripsy therapies (MATLAB). Worked extensively with ultrasound transducer hardware, FPGA microcontrollers (Verilog, C), and networking equipment (Python).
   * Supervisor: Zhen Xu, PhD
   
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
