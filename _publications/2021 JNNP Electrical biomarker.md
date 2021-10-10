@@ -3,7 +3,7 @@ title: "Electrical biomarker predicts optimal subthalamic stimulation in Parkins
 collection: publications
 permalink: /publication/2021-jnnp-electrical-biomarker
 excerpt: ''
-date: 2021
+date: 2021-07-21
 venue: 'Journal of Neurology, Neurosurgery, and Psychiatry'
 paperurl: ''
 citation: 'Rao, A. T., Lu, C. W., Askari, A., Malaga, K. A., Chou, K. L., & Patil, P. G. (2021). &quot;Electrical biomarker predicts optimal subthalamic stimulation in Parkinson’s disease.&quot; <i>Journal of Neurology, Neurosurgery, and Psychiatry</i>. IN REVIEW.'
