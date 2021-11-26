@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * BSE in Computer Engineering, University of Michigan (Ann Arbor), 2020
 * MSE in Biomedical Engineering, University of Michigan (Ann Arbor), 2021
 
-Research experience
-======
+## Research experience
 * 12/2019 to Present - Master's Researcher - U-M Restorative Neuroengineering Group
   * Applying signal-processing and machine-learning methods to improve the efficacy of subthalamic deep brain stimulation (STN-DBS) surgeries for treating the motor symptoms of Parkinson’s disease.
   * Programming neuromodulation equipment used during surgery to record electrophysiological data from patients (LabVIEW).
@@ -26,8 +24,7 @@ Research experience
   * Analyzed acoustic data from ultrasound transducers/receivers to measure the energy efficiency of histotripsy therapies (MATLAB). Worked extensively with ultrasound transducer hardware, FPGA microcontrollers (Verilog, C), and networking equipment (Python).
   * Supervisor: Zhen Xu, PhD
   
-Publications
-======
-  <ul>{% for post in site.publications %}
+## Publications
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
