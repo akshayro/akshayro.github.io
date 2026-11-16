@@ -1,0 +1,7 @@
+# Local design experiments and screenshots
+/design-options/
+/_preview/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
